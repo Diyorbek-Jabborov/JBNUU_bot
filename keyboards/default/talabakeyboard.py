@@ -14,6 +14,7 @@ talaba = ReplyKeyboardMarkup(
             KeyboardButton(text="Chaqiruv qog'ozi"),
             KeyboardButton(text="Reyting daftarcha")
         ],
+
         [
             KeyboardButton(text="Orqaga"),
         ]

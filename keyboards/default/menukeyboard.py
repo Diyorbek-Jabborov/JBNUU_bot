@@ -7,16 +7,9 @@ menu = ReplyKeyboardMarkup(
             KeyboardButton(text='Hemis platformasi '),
         ],
         [
-            KeyboardButton(text='Talaba Profili'),
-            KeyboardButton(text="Professor profili"),
-        ],
-        [
             KeyboardButton(text="Biz bilan bog'lanish"),
-        ],
-        [
             KeyboardButton(text="Rasmni pdf qilish")
-
-        ],
+        ]
     ],
     resize_keyboard=True,
     one_time_keyboard=True
